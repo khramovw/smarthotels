@@ -1,0 +1,92 @@
+{
+  "MESSAGES": {
+    "ERROR": {
+      "TEST": "test ru"
+    },
+    "SUCCESS": {
+    }
+  },
+  "RU": "Russian",
+  "EN": "English",
+  "UZ": "Uzbek",
+  "DASHBOARD": {
+    "NEW_BOOKING": "Новое бронирование",
+    "CHOOSE_DATE": "Выберите дату",
+    "TODAY": "Сегодня",
+    "YESTERDAY": "Вчера",
+    "TOMORROW": "Завтра",
+    "MORE_DATES": "Больше дат",
+    "DOWNLOAD_MORE": "Загрузить ещё",
+    "COLLAPSE": "Свернуть",
+    "OVERLOAD_ON_MONTH": "Загрузка на месяц",
+    "MSG": {
+      "UNANSWERED_MSG": "Неотвеченные сообщения",
+      "VIEW_ALL_MSG": "Посмотреть все сообщения",
+      "NO_ANY_MSG": "У Вас пока что нету ни одного сообщения"
+    },
+    "REVIEW": {
+      "RECENTLY_REVIEWS": "Недавние отзывы",
+      "VIEW_ALL_REVIEWS": "Посмотреть все отзывы",
+      "NO_ANY_REVIEWS": "У Вас пока что нету ни одного отзыва"
+    },
+    "FORECAST": {
+      "FORECAST_TITLE": "Прогноз",
+      "BLOCKED": "Жильё забронировано + заблокировано",
+      "AVAILABILITY": "Доступность"
+    },
+    "BOOKING": {
+      "BOOKING_OVERVIEW": "Обзор бронирований",
+      "VIEW_ALL_BOOKING": "Посмотреть все бронирования"
+    },
+    "CHECK_IN": {
+      "TITLE": "Заезды",
+      "NO_ANY": "У Вас пока что нету ни одного заезда"
+    },
+    "CHECK_OUT": {
+      "TITLE": "Выезды",
+      "NO_ANY": "У Вас пока что нету ни одного выезда"
+    },
+    "LIVE": {
+      "TITLE": "Проживают",
+      "NO_ANY": "У Вас пока что нету ни одного проживающего"
+    },
+    "SALE": {
+      "TITLE": "Продажа",
+      "NO_ANY": "У Вас пока что нету ни одной продажи",
+      "BOOKED_TODAY": "Booked Today",
+      "ROOM_NIGHTS": "Room Nights",
+      "REVENUE": "Revenue"
+    },
+    "CANCELLATION": {
+      "TITLE": "Аннуляция",
+      "NO_ANY": "У Вас пока что нету ни одной аннуляции",
+      "CANCELED": "Аннулировано",
+      "LOST": "Потеряно"
+    },
+    "REBOOKING": {
+      "TITLE": "Перебронирование",
+      "NO_ANY": "У Вас пока что нету ни одного перепробронирования",
+      "OVERLOAD_ROOMS": "Перебронирование номеров"
+    },
+    "BOOK_ITEM": {
+      "GUESTS": "Гостей",
+      "NIGHTS": "Ночей",
+      "CHECK_IN_DATE": "Заезд",
+      "CHECK_OUT_DATE": "Выезд",
+      "ROOM_NUM": "№ комнаты",
+      "STATUS": "Статус",
+      "OVERALL":"Итого",
+      "NOTES": "Заметки",
+      "ACTION": "Действие",
+      "ACTION_CHECK_IN": "Заехал",
+      "ACTION_CHECK_OUT": "Выехал",
+      "ACTION_LIVE": "Проживает",
+      "ROOMS_COUNT": "Кол-во комнат",
+      "CONFIRMED": "Подтверждено",
+      "CANCELLED": "Отменено",
+      "IN_ROOM": "В номере",
+      "CHECK_OUT": "Выехал",
+      "ROOMS": "Номера"
+    }
+  }
+}
